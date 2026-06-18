@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: aug24registry
-          image: feb20reg.azurecr.io/manual-feb21-satrter-image1
+          image: june18contreg.azurecr.io/bjune18imagerepo
           ports:
             - containerPort: 80
 ---
